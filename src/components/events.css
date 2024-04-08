@@ -1,0 +1,23 @@
+/* events.css */
+
+/* Style for the container div */
+.events-container {
+    margin-top: 20px;
+    margin-left: 100px;
+  }
+  
+  /* Style for the card title */
+  .card-title {
+    font-size: 1.25rem; /* Adjust font size */
+  }
+  
+  /* Style for the card text */
+  .card-text {
+    margin-bottom: 5px; /* Adjust margin */
+  }
+  
+  /* Style for the registration link */
+  .btn-primary {
+    margin-top: 10px; /* Adjust margin */
+  }
+  
